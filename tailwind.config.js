@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'body': ['Poppins']
+      body: ["Poppins"],
+      logo: ["Nunito"],
     },
   },
   plugins: [],
-}
+};
