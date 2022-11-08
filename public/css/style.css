@@ -623,14 +623,6 @@ video {
   grid-row: span 2 / span 2;
 }
 
-.row-span-3 {
-  grid-row: span 3 / span 3;
-}
-
-.row-span-6 {
-  grid-row: span 6 / span 6;
-}
-
 .m-7 {
   margin: 1.75rem;
 }
